@@ -491,7 +491,7 @@ Some dank memes for fun or whatever!
   Some other regex filters are:
   `me too` | `good morning` | `good night`.
 
-  Elizabeth will reply random strings accordingly when these words are used!
+  Elora will reply random strings accordingly when these words are used!
   All regex filters can be disabled incase u don't want... like: `/disable metoo`.
 
 """
