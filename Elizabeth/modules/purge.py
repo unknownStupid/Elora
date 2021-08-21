@@ -1,3 +1,5 @@
+# CREDITS TO MR-SHRLCK AND ANYONE
+
 import asyncio
 import time
 
